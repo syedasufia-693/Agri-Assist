@@ -57,12 +57,12 @@ Welcome to Agri-Assist Project, an innovative agricultural application designed 
 1. Start the backend server:
 
    ```bash
-   npm run start:backend
+   npm start
    ```
 2. Start the frontend development server:
 
    ```bash
-   npm run start:frontend
+   npm start
    ```
 3. Start the Flask backend server:
 
